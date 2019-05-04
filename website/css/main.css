@@ -1,11 +1,12 @@
-
-.img-fluid {
-    width: 100%;
+h11 {
+    color:red;
 }
 
-.top-15 {
-    margin-top: 15px;
+#logo {
+        width:50%;
+        height:50%;
 }
-.text-indent-50{
-    text-indent: 50px;
+
+.panel-heading{
+    font-size:150%;
 }
